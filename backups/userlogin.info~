@@ -1,0 +1,7 @@
+name = User Menu Block
+description = A custom block for user login, logout & account menu.
+package = Custom Mods
+version = 6.x.1 beta
+version = “6.x″
+project = “drupal”
+datestamp = “1223496909″
